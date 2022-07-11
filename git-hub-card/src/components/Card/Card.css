@@ -1,0 +1,23 @@
+.github-profile {
+  margin: 15px 0px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  flex-direction: row;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+.info {
+  margin-left: 10px;
+}
+.name {
+  font-weight: bold;
+}
+.company {
+  padding-top: 30px;
+  color: blueviolet;
+  font-size: 16px;
+  font-weight: 500;
+}
